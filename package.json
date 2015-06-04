@@ -6,7 +6,7 @@
   "main": "app/index.js",
   "repository": "nowri/generator-gulp-basic-nw",
   "author": {
-    "name": "ka",
+    "name": "nowri.ka",
     "email": "interactive@nowri.in",
     "url": "https://github.com/nowri"
   },

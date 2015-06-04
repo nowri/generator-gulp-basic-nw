@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # generator-gulp-basic-nw [![Build Status](https://secure.travis-ci.org/nowri/generator-gulp-basic-nw.png?branch=master)](https://travis-ci.org/nowri/generator-gulp-basic-nw)
 
 > [Yeoman](http://yeoman.io) generator
@@ -45,3 +46,7 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 MIT
+=======
+# generator-gulp-basic-nw
+gulp-basic-nw Yeoman generator
+>>>>>>> eb5d5d9a166d7691e2aedc7599749c8b4b840252

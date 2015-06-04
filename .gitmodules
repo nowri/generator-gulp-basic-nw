@@ -1,0 +1,3 @@
+[submodule "generators/app/templates/gulp-basic-nw"]
+	path = generators/app/templates/gulp-basic-nw
+	url = git@github.com:nowri/gulp-basic-nw.git
